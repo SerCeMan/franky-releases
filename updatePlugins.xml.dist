@@ -1,0 +1,3 @@
+<plugins>
+    <plugin id="Franky Profiler" url="https://github.com/SerCeMan/franky-releases/raw/master/$NAME" version="1.0"/>
+</plugins>

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f487985-5c51-48a7-9e82-2d19cacf422c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/updatePlugins.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release.sh" afterPath="$PROJECT_DIR$/release.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/updatePlugins.xml" afterPath="$PROJECT_DIR$/updatePlugins.xml" />
     </list>
     <ignored path="franky-releases.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="release.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="release.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/release.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="82" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+            <state relative-caret-position="180">
+              <caret line="10" column="64" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -45,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="updatePlugins.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="updatePlugins.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/updatePlugins.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
@@ -75,9 +76,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/updatePlugins.xml" />
         <option value="$PROJECT_DIR$/updatePlugins.xml.dist" />
         <option value="$PROJECT_DIR$/release.sh" />
+        <option value="$PROJECT_DIR$/updatePlugins.xml" />
       </list>
     </option>
   </component>
@@ -253,12 +254,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469383644627</updated>
-      <workItem from="1469383646094" duration="1115000" />
+      <workItem from="1469383646094" duration="1465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1115000" />
+    <option name="totallyTimeSpent" value="1465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="223" y="382" width="2560" height="1052" extended-state="0" />
@@ -316,18 +317,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/updatePlugins.xml">
+    <entry file="file://$PROJECT_DIR$/release.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="180">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/release.sh">
+    <entry file="file://$PROJECT_DIR$/updatePlugins.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="82" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+        <state relative-caret-position="36">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
         </state>
       </provider>

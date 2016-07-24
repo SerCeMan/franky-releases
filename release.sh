@@ -3,7 +3,7 @@
 # just quick temporary solution instead of official repo
 
 cd ../franky
-./gradlew buildPlugin
+./gradlew plugin
 cd -
 cp ../franky/franky-intellij/build/distributions/* .
 FRANKY_RELEASE_NAME=`ls -1 | grep zip`

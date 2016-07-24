@@ -5,6 +5,7 @@
 cd ../franky
 ./gradlew plugin
 cd -
+rm *.zip
 cp ../franky/franky-intellij/build/distributions/* .
 FRANKY_RELEASE_NAME=`ls -1 | grep zip`
 VERSION=`echo ${FRANKY_RELEASE_NAME} | sed -e "s/Franky-//g" -e "s/.zip//g"`

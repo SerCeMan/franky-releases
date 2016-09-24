@@ -3,7 +3,7 @@
 # just quick temporary solution instead of official repo
 
 cd ../franky
-./gradlew plugin
+./gradlew clean plugin
 cd -
 rm *.zip
 cp ../franky/franky-intellij/build/distributions/* .
